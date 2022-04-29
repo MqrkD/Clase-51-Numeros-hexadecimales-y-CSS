@@ -1,0 +1,46 @@
+h1 {
+    color: aquamarine;
+}
+h2 {
+    color: #ff6600;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+/* {
+    border: solid;
+}*/
+
+.header {
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.foot {
+    display: flex;
+    justify-content: end;
+}
+
+h2, p {
+    text-align: center;
+}
+
+body {
+    background-color: #00ffff;
+}
+
+p {
+    font-size: 20px;
+    padding-top: 1px;
+    color: #123086;
+}
